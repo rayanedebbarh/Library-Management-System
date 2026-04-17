@@ -2,6 +2,14 @@
 
 A full-stack web application for managing books and libraries, built with Spring Boot, Thymeleaf, and SQLite. Features both a RESTful API and a web interface for complete CRUD operations.
 
+---
+
+## 🌐 **Try It Live!**
+
+**Web UI:** [https://library-management-system-production-15f9.up.railway.app/web/](https://library-management-system-production-15f9.up.railway.app/web/)
+
+---
+
 ![Home Page](screenshots/home.png)
 
 ## 🚀 Features
