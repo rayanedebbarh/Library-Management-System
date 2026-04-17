@@ -181,9 +181,8 @@ All code includes AI usage documentation per course requirements. Claude AI assi
 ## 📧 Contact
 
 **Rayane Debbarh**
-- GitHub: [@rayanedebbarh](https://github.com/rayanedebbarh)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: [www.linkedin.com/in/rayane-debbarh]
+- Email: [debbarh1a@alma.edu]
 
 ## 📝 License
 
